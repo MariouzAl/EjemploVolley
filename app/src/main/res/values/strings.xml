@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="ciudades">
+        <item>Veracruz</item>
+        <item>Xalapa</item>
+        <item>Mexico</item>
+        <item>Puebla</item>
+    </string-array>
+    <string name="title_activity_condiciones_climaticas">CondicionesClimaticasActivity</string>
+</resources>
